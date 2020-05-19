@@ -1,6 +1,6 @@
 ---
 title: Amazon EKS
-weight: 5
+weight: 3
 ---
 
 * Amazon Elastic Container Service for Kubernetes

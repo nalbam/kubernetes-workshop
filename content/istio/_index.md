@@ -1,6 +1,6 @@
 ---
 title: Istio
-weight: 9
+weight: 6
 ---
 
 {{% notice tip %}}
