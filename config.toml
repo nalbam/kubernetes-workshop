@@ -10,7 +10,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= false
 
 [params]
-  editURL = "https://github.com/mzcdev/kubernetes-workshop/edit/master/content/"
+  editURL = "https://github.com/nalbam/kubernetes-workshop/edit/master/content/"
   description = "Kubernetes Workshop"
   author = "Jungyoul Yu"
   showVisitedLinks = false
@@ -30,7 +30,7 @@ languageName = "Korean"
 [[Languages.ko.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub"
 identifier = "ds"
-url = "https://github.com/mzcdev/kubernetes-workshop"
+url = "https://github.com/nalbam/kubernetes-workshop"
 weight = 20
 
 [[Languages.ko.menu.shortcuts]]

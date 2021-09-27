@@ -1,13 +1,13 @@
 {
   "name": "kubernetes-workshop",
   "version": "1.0.0",
-  "homepage": "https://github.com/mzcdev/kubernetes-workshop",
+  "homepage": "https://github.com/nalbam/kubernetes-workshop",
   "bugs": {
-    "url": "https://github.com/mzcdev/kubernetes-workshop/issues"
+    "url": "https://github.com/nalbam/kubernetes-workshop/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mzcdev/kubernetes-workshop.git"
+    "url": "git+https://github.com/nalbam/kubernetes-workshop.git"
   },
   "scripts": {
     "theme": "git submodule init && git submodule update",
