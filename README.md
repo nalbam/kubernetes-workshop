@@ -1,6 +1,6 @@
 # kubernetes-workshop
 
-* <https://mzcdev.github.io/kubernetes-workshop/>
+* <https://nalbam.github.io/kubernetes-workshop/>
 
 ## prepare
 
